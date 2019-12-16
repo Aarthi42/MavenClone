@@ -20,8 +20,7 @@ public class defopen {
 		Row r=s.getRow(2);
 		Cell c=r.getCell(1);
 		System.out.println(c);
-		int count=r.getPhysicalNumberOfCells();
-		System.out.println(count);
+		
 	}
 
 }
